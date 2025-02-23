@@ -67,7 +67,7 @@ The Merlynn AI Assessment Application is an innovative solution designed to demo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/azterix/merlynn-ai-assessment.git
+   git clone https://github.com/azterix101/merlynn-ai-assessment.git
    cd merlynn-ai-assessment
    ```
 
